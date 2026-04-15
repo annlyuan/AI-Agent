@@ -6,11 +6,15 @@ A representative example is an agentic intake and service workflow assistant I b
 
 This experience is especially relevant to agentic AI platform work because it involved several core agent-system elements:
 
-semi-autonomous workflow execution
-structured data capture and normalization
-backend handoff through machine-readable JSON
-record creation and persistent storage
-support for human follow-up after automated intake
+### semi-autonomous workflow execution
+
+### structured data capture and normalization
+
+### backend handoff through machine-readable JSON
+
+### record creation and persistent storage
+
+### support for human follow-up after automated intake
 
 Conceptually, this maps well to modern agentic system requirements such as tool invocation, workflow state management, memory/persistence, traceable handoff, and human-in-the-loop review.
 
