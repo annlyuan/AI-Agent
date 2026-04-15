@@ -8,6 +8,8 @@ In addition to classical machine learning, I have hands-on experience with AI ag
 
 A representative example is an agentic intake-and-service-workflow assistant I built with Dify for bioinformatics consulting operations. This system was designed to handle early-stage customer intake in a semi-automated way. When a new client inquiry arrived, the agent collected initial information, generated a preliminary solution outline, produced a workflow-style process diagram, packaged structured information into JSON, transmitted it to the backend, and created a case record for storage and later follow-up. This project was not just a “customer service bot”; it functioned as an intake orchestration agent that combined requirement capture, structured output generation, backend integration, and persistent case management.
 
+This was not just an intake bot. It was a locally deployed, workflow-governed support agent designed for sensitive biomedical use cases. It classified requests, identified missing inputs, asked follow-up questions autonomously, triggered RAG only after requirements were complete, generated literature-grounded plans and workflow diagrams, and archived confirmed outputs into structured JSON for backend use. So the core value was secure deployment, controlled execution, traceability, and semi-autonomous decision support.
+
 This experience is especially relevant to agentic AI platform work because it involved several core agent-system elements:
 
 ### 1. semi-autonomous workflow execution
